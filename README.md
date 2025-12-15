@@ -10,7 +10,7 @@ A **Flask/Streamlit web application** that uses machine learning to detect ranso
 
 **Live Demo:** [https://ransomware-detector-web.streamlit.app](https://ransomware-detector-web.streamlit.app)
 
-*(Upload a screenshot of your app here after deployment - name it `screenshot.png` and reference it as `![App Screenshot](screenshot.png)`)*
+![App Screenshot](screenshot.png)
 
 ## 📋 Table of Contents
 - [✨ Features](#-features)
