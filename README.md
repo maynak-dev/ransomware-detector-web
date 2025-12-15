@@ -22,7 +22,7 @@ A **Flask/Streamlit web application** that uses machine learning to detect ranso
 - [📁 Project Structure](#-Project-Structure)
 - [🔄 Development Workflow](#-Development-Workflow)
 - [📈 Future Enhancements](#-Future-Enhancements)
-- [👨‍💻 Author](#-Author)
+- [👨‍💻 Author](#Author)
 - [📄 License](#-License)
 
 ## ✨ Features
@@ -168,3 +168,6 @@ B.Tech in Computer Science and Engineering
 **GitHub:** [https://github.com/maynak-dev](https://github.com/maynak-dev)
 
 **LinkedIN:** [https://www.linkedin.com/in/maynak-dey/](https://www.linkedin.com/in/maynak-dey/)
+
+## 📄 License
+This project is licensed under the MIT License - see the LICENSE file for details.
