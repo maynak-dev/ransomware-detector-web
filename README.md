@@ -18,13 +18,12 @@ A **Flask/Streamlit web application** that uses machine learning to detect ranso
 - [🛠️ Installation](#️-Installation)
 - [🚀 Usage](#-Usage)
 - [📊 Model Performance](#-Model-Performance)
-- [🏗️ Project Architecture](#️-project-architecture)
-- [📁 Project Structure](#-project-structure)
-- [🔄 Development Workflow](#-development-workflow)
-- [🚧 Challenges & Solutions](#-challenges--solutions)
-- [📈 Future Enhancements](#-future-enhancements)
-- [👨‍💻 Author](#-author)
-- [📄 License](#-license)
+- [🏗️ Project Architecture](#️-Project-Architecture)
+- [📁 Project Structure](#-Project-Structure)
+- [🔄 Development Workflow](#-Development-Workflow)
+- [📈 Future Enhancements](#-Future-Enhancements)
+- [👨‍💻 Author](#-Author)
+- [📄 License](#-License)
 
 ## ✨ Features
 
