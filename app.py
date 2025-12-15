@@ -162,7 +162,7 @@ with st.sidebar:
     3. A pre-trained model evaluates these features.
     4. Results show the malware probability.
     
-    **Note:** This is a demonstration for a B.Tech project. Always use multiple security tools for critical analysis.
+    **Note:** This is a demonstration for my B.Tech project. Always use multiple security tools for critical analysis.
     """)
     
     # Display loaded model info
@@ -178,4 +178,4 @@ with st.sidebar:
 
 # Footer
 st.markdown("---")
-st.caption("Ransomware Detection System | B.Tech Final Year Project")
+st.caption("Ransomware Detection System | Developed by Maynak Dey | B.Tech Final Year Project")
