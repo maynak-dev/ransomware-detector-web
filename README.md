@@ -8,7 +8,7 @@
 
 A **Flask/Streamlit web application** that uses machine learning to detect ransomware from Windows PE (.exe) file characteristics. Built as a **Final Year B.Tech (Computer Science & Engineering) Project**.
 
-**Live Demo:** [https://your-app-name.streamlit.app](https://your-app-name.streamlit.app)
+**Live Demo:** [https://ransomware-detector-web.streamlit.app](https://ransomware-detector-web.streamlit.app)
 
 *(Upload a screenshot of your app here after deployment - name it `screenshot.png` and reference it as `![App Screenshot](screenshot.png)`)*
 
@@ -119,11 +119,17 @@ The machine learning model was trained on the "Ransomware Detection Data Set" fr
 
 📦 ransomware-detector-web
 ├── 📄 app.py                    # Main Streamlit application
+
 ├── 📄 requirements.txt          # Python dependencies
+
 ├── 📊 model/                    # Trained ML models
+
+
 │   ├── best_ransomware_model_UPDATED2.pkl
 │   ├── feature_scaler_UPDATED2.pkl
+
 │   └── feature_columns_UPDATED2.pkl
+
 └── 📄 .gitignore               # Git ignore rules
 
 ## 🔄 Development Workflow
@@ -155,3 +161,5 @@ The machine learning model was trained on the "Ransomware Detection Data Set" fr
 **Maynak Dey**
 
 B.Tech in Computer Science and Engineering
+**GitHub:** [https://github.com/maynak-dev](https://github.com/maynak-dev)
+**LinkedIN:** [https://www.linkedin.com/in/maynak-dey/](https://www.linkedin.com/in/maynak-dey/)
