@@ -118,6 +118,7 @@ The machine learning model was trained on the "Ransomware Detection Data Set" fr
 ## 🏗️ Project Architecture
 
 📦 ransomware-detector-web
+
 ├── 📄 app.py                    # Main Streamlit application
 
 ├── 📄 requirements.txt          # Python dependencies
@@ -161,5 +162,7 @@ The machine learning model was trained on the "Ransomware Detection Data Set" fr
 **Maynak Dey**
 
 B.Tech in Computer Science and Engineering
+
 **GitHub:** [https://github.com/maynak-dev](https://github.com/maynak-dev)
+
 **LinkedIN:** [https://www.linkedin.com/in/maynak-dey/](https://www.linkedin.com/in/maynak-dey/)
