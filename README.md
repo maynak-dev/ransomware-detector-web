@@ -13,7 +13,7 @@ A **Flask/Streamlit web application** that uses machine learning to detect ranso
 ![App Screenshot](screenshot.png)
 
 ## 📋 Table of Contents
-- [✨ Features](#-features)
+- [✨ Features](#-Features)
 - [🎯 How It Works](#-how-it-works)
 - [🛠️ Installation](#️-installation)
 - [🚀 Usage](#-usage)
