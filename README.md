@@ -127,6 +127,7 @@ The machine learning model was trained on the "Ransomware Detection Data Set" fr
 
 
 │   ├── best_ransomware_model_UPDATED2.pkl
+
 │   ├── feature_scaler_UPDATED2.pkl
 
 │   └── feature_columns_UPDATED2.pkl
